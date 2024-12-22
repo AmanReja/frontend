@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./dashboard.css";
+import "./Dashboard.css";
 import { Link } from "react-router-dom";
 
 function Dashboard() {
